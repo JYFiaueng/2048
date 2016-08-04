@@ -41,6 +41,8 @@
 	}
 	//游戏初始化
 	function init(){
+		score = 0;
+		updateScore(score);
 		for(let i = 0; i < 4; i++){
 			for(let j = 0; j < 4; j++){
 				let gridCell = $('#grid-cell-'+i+'-'+j);
