@@ -23,7 +23,7 @@ function getNumberBackgroundColor(num){
 		case 64:color='#f65e3b';break;
 		case 128:color='#edcf72';break;
 		case 256:color='#edcc61';break;
-		case 562:color='#9c0';break;
+		case 512:color='#9c0';break;
 		case 1024:color='#33b5e5';break;
 		case 2048:color='#09c';break;
 		case 4096:color='#a6c';break;
@@ -138,7 +138,7 @@ function individuation(num){
 		case 64:str='&#xe61e;';break;
 		case 128:str='&#xe65f;';break;
 		case 256:str='&#xe66a;';break;
-		case 562:str='&#xec4b;';break;
+		case 512:str='&#xec4b;';break;
 		case 1024:str='&#xe65c;';break;
 		case 2048:str='&#xe698;';break;
 		case 4096:str='&#xe62a;';break;
